@@ -39,7 +39,7 @@ body {
 }
 
 .hero-container {
-  background-image: url("../assets/WembleyStadium-MitchRosen.jpg");
+  background-image: url("../Assets/WembleyStadium-MitchRosen.jpg");
   background-size: cover;
   background-position: center;
   margin: 2px;
