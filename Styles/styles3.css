@@ -105,7 +105,7 @@ body {
 }
 
 .accordion-button:hover {
-    background-color: #e90052;
+    background-color: #00ff85;
     color: #38003c;
 }
 
@@ -121,6 +121,11 @@ body {
     justify-content: center;
     align-items: center;
 }
+
+.video {
+    aspect-ratio: 16/9;
+    width: 100%;
+  }
 
 iframe {
     width: 100%;
